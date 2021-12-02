@@ -1,10 +1,10 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import Head from 'next/head';
-import Layout from '../../components/layout';
+import Layout from '../../components/Layout';
 
 const FirstPost = () =>  {
-    return <div>
+    return <Layout>
 
         <Head>
             <title>First Post</title>
@@ -22,7 +22,7 @@ const FirstPost = () =>  {
             alt="andrew"
         />
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat maxime qui quo ullam molestiae   fuga in beatae, vero eligendi sapiente fugit quod eveniet adipisci reiciendis mollitia cum magnam     inventore? Rem consectetur cupiditate ipsam modi iste voluptates labore vel voluptas enim quod  dolorem reiciendis, ex ipsum aut pariatur hic totam impedit.</p>
-    </div>
+    </Layout>
 
 }
 
