@@ -16,10 +16,10 @@ const FirstPost = () =>  {
             </Link>
         </h2>
         <Image
-            src="/images/profile-img.jpg"
-            height={100}
-            width={75}
-            alt="andrew"
+            src="/images/profile.jpg"
+            height={184}
+            width={144}
+            alt="123123123"
         />
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat maxime qui quo ullam molestiae   fuga in beatae, vero eligendi sapiente fugit quod eveniet adipisci reiciendis mollitia cum magnam     inventore? Rem consectetur cupiditate ipsam modi iste voluptates labore vel voluptas enim quod  dolorem reiciendis, ex ipsum aut pariatur hic totam impedit.</p>
     </Layout>
